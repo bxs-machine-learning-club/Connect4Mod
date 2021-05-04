@@ -1,6 +1,9 @@
 # Connect4Mod
 Connect4 for the ML Club
 
+If you don't have it already, please install Spyder IDE (https://www.spyder-ide.org/) or another Python IDE.
+Also, follow the instructions to install PyGame (https://www.pygame.org/wiki/GettingStarted)
+
 Connect4.py -> Two player Connect4
 Connect4-ai.py -> AI Connect4 w/ minimax
 
